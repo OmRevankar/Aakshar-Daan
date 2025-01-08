@@ -5,6 +5,7 @@ module.exports = {
     extend: {
       fontFamily :{
         inter : ["Inter","serif"],
+        marathi_font1 : ['AMSAadityaRegular','sans-serif'],
       },
       colors:{
         greenp: '#02B073',
