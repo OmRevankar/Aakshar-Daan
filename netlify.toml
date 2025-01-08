@@ -1,6 +1,6 @@
 [build]
-  publish = "dist" # Replace "dist" with the folder containing your `.html` files if different.
-  command = "npm run build" # Use this only if you're using a build tool like Tailwind CLI.
+  publish = "AAKSHAR DAAN" # Replace "dist" with the folder containing your `.html` files if different.
+  command = "" # Use this only if you're using a build tool like Tailwind CLI.
 
 [[redirects]]
   from = "/*"
